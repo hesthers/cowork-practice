@@ -6,5 +6,4 @@ for i in range(1,16+1):
     elif i%5==0:
         print('buzzz')
     else:
-        print(i)
-
+        print(Alex)
