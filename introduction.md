@@ -1,3 +1,4 @@
+
 # Introduction
 Let me introduce our team
 
@@ -12,3 +13,5 @@ Let me introduce our team
 2. develop the skills of git/github
 3. develop the thinking of logical, design
 4. reach the ultimate goal with everyone in our group
+
+
